@@ -3,6 +3,10 @@ using LibraryServiceReference;
 
 namespace LibraryService.WebClient.Models
 {
+
+    /// <summary>
+    /// Тип поиска
+    /// </summary>
     public enum SearchType
     {
         [Display(Name = "Заголовок")]
