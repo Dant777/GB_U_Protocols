@@ -9,6 +9,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClinicService.Data", "Clini
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinicClient", "ClinicClient\ClinicClient.csproj", "{E3B58C65-37ED-4870-A519-AB979D96A888}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtSample", "JwtSample\JwtSample.csproj", "{EB9EDDFD-9AD3-4DC9-83CA-3AF68B8F4486}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountSample", "AccountSample\AccountSample.csproj", "{0D768D45-F70E-41B0-8E4A-9F46FD2134C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{E3B58C65-37ED-4870-A519-AB979D96A888}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3B58C65-37ED-4870-A519-AB979D96A888}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3B58C65-37ED-4870-A519-AB979D96A888}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB9EDDFD-9AD3-4DC9-83CA-3AF68B8F4486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB9EDDFD-9AD3-4DC9-83CA-3AF68B8F4486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB9EDDFD-9AD3-4DC9-83CA-3AF68B8F4486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB9EDDFD-9AD3-4DC9-83CA-3AF68B8F4486}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D768D45-F70E-41B0-8E4A-9F46FD2134C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D768D45-F70E-41B0-8E4A-9F46FD2134C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D768D45-F70E-41B0-8E4A-9F46FD2134C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D768D45-F70E-41B0-8E4A-9F46FD2134C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
