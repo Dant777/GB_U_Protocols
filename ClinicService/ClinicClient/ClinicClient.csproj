@@ -12,6 +12,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Protobuf Include="..\ClinicService\Proto\auth.proto" GrpcServices="Client">
+      <Link>Protos\auth.proto</Link>
+    </Protobuf>
     <Protobuf Include="..\ClinicService\Proto\clinicproto.proto" Link="Protos\clinicproto.proto" GrpcServices="Client" />
   </ItemGroup>
 

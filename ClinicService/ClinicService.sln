@@ -7,11 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClinicService", "ClinicServ
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClinicService.Data", "ClinicService.Data\ClinicService.Data.csproj", "{D48BA11E-F182-4EA9-AC67-46266542B16F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinicClient", "ClinicClient\ClinicClient.csproj", "{E3B58C65-37ED-4870-A519-AB979D96A888}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClinicClient", "ClinicClient\ClinicClient.csproj", "{E3B58C65-37ED-4870-A519-AB979D96A888}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtSample", "JwtSample\JwtSample.csproj", "{EB9EDDFD-9AD3-4DC9-83CA-3AF68B8F4486}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JwtSample", "JwtSample\JwtSample.csproj", "{EB9EDDFD-9AD3-4DC9-83CA-3AF68B8F4486}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountSample", "AccountSample\AccountSample.csproj", "{0D768D45-F70E-41B0-8E4A-9F46FD2134C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccountSample", "AccountSample\AccountSample.csproj", "{0D768D45-F70E-41B0-8E4A-9F46FD2134C1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
